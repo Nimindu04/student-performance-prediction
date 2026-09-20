@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project predicts students final exam grades using
+This project predicts students' final exam grades using
 academic and behavioral features.
 
 ## Technologies
